@@ -1,6 +1,4 @@
-package com.lhy.code;
-
-import sun.java2d.pipe.SpanShapeRenderer;
+package com.lhy.code.factory;
 
 /**
  * @author liuhaiyan
@@ -14,7 +12,7 @@ public class SimpleFactory {
         this.op = op;
     }
 
-    public  Calculator getCalculator() {
+    public Calculator getCalculator() {
         Calculator result = null;
         switch (op) {
             case "add":

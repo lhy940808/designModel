@@ -1,4 +1,6 @@
-package com.lhy.code;
+package com.lhy.code.factory;
+
+import com.lhy.code.factory.Calculator;
 
 /**
  * @author liuhaiyan

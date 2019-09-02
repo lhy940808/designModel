@@ -1,4 +1,4 @@
-package com.lhy.code;
+package com.lhy.code.factory;
 
 /**
  * @author liuhaiyan
